@@ -1,6 +1,6 @@
 # Homework_Solver_LLM
 
-**HomeworkSolver** is a project featuring three specialized models designed to assist with homework across various subjects, including Math, Science, and Social Science. Utilizing the latest advancements in natural language processing, these models aim to provide accurate and helpful solutions to a wide range of academic questions. If you want to check out some example questions and answers (answers given by the model) then [click here](#example-questions-and-answers).
+**HomeworkSolver** is a project featuring three specialized models designed to assist with homework across various subjects, including Math, Science, and Social Science. Utilizing the latest advancements in natural language processing, these models aim to provide accurate and helpful solutions to a wide range of academic questions. If you want to check out some example questions and answers by the model then [Click Here](#example-questions-and-answers).
 
 ## Model Versions
 
