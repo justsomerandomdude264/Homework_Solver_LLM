@@ -29,15 +29,11 @@ These models are versions of Llama 3.1 with 8 billion parameters, quantized to 4
   5. [adamo1139/basic_economics_questions_ts_test_4](https://huggingface.co/datasets/adamo1139/basic_economics_questions_ts_test_4)
 
 ## Capabilities
-- **Comprehensive Academic Assistance**: The combined models can handle a wide array of subjects, providing accurate and detailed solutions for math problems, scientific queries, and social science questions. This multi-disciplinary approach ensures that users receive help across different areas of study.
+- **Comprehensive Academic Assistance**: The combined models can handle a wide array of subjects, providing accurate and detailed solutions in thier specific fields.
 
-- **Contextual Understanding**: The models are designed to understand and process questions within their specific academic contexts. This means they can interpret complex questions and provide relevant answers based on the subject matter, whether it's a math theorem, a scientific principle, or a historical fact.
+- **Contextual Understanding**: The models are designed to understand and process questions within their specific academic contexts so reduced hallucinations can be expected.
 
-- **Cross-Subject Insights**: By integrating insights from different subjects, the models can provide holistic explanations and connections between different fields of knowledge. For example, a question about the impact of a scientific discovery on society could draw on both science and social science knowledge.
-
-- **Adaptive Learning**: The models can be fine-tuned or updated with new data to improve their performance over time. This adaptability ensures that they stay current with new educational content and methodologies, offering up-to-date and relevant assistance.
-
-- **Enhanced Problem-Solving**: The combined models leverage advanced algorithms to solve complex problems. Whether it’s solving a difficult math equation, explaining a scientific concept, or analyzing a social science case study, the models are equipped to handle intricate queries and provide precise, informative answers.
+- **Adaptive Learning**: The models can be fine-tuned or updated with new data to improve their performance over time. 
 
 ## Getting Started
 1. **Clone Repo**
